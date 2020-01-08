@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TechNews2 - Новое в науке и технике</title>
+    <description>Новое в науке и технике, изобретения и научные открытия в области робототехники, электроники, нанотехнологий, медицины, физики, энергетики и космоса.
+</description>
+    <link>http://technews2.pp.ua/</link>
+    <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 08 Jan 2020 17:05:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2020 17:05:00 +0200</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Козырёк от Bosch защитит глаза водителей</title>
+        <description>Компания Bosch показала прототип умного солнцезащитного козырька, который планируется устанавливать в автомобилях.</description>
+        <pubDate>Wed, 08 Jan 2020 15:59:03 +0200</pubDate>
+        <link>http://technews2.pp.ua/bosch-vr-visor/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/bosch-vr-visor/</guid>
+        
+        <category>дополненная реальность</category>
+        
+        <category>экран</category>
+        
+        
+        <category>electro</category>
+        
+      </item>
+    
+      <item>
+        <title>Lenovo показала сгибаемый ноутбук</title>
+        <description>Компания Lenovo показала публике серийную версию сгибаемого ноутбука ThinkPad X1 Fold, обладающего складывающимся OLED-дисплеем.</description>
+        <pubDate>Wed, 08 Jan 2020 15:51:29 +0200</pubDate>
+        <link>http://technews2.pp.ua/lenovo-thinkpad-x1/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/lenovo-thinkpad-x1/</guid>
+        
+        <category>планшет</category>
+        
+        <category>смартфон</category>
+        
+        
+        <category>electro</category>
+        
+      </item>
+    
+      <item>
+        <title>Телескоп TESS увидел землеподобную планету</title>
+        <description>Астрономам удалось обнаружить экзопланету в зоне обитаемости при помощи телескопа TESS, в системе TOI 700.</description>
+        <pubDate>Wed, 08 Jan 2020 15:41:59 +0200</pubDate>
+        <link>http://technews2.pp.ua/tess-toi700d/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/tess-toi700d/</guid>
+        
+        <category>экзопланета</category>
+        
+        <category>планета</category>
+        
+        
+        <category>space</category>
+        
+      </item>
+    
+      <item>
+        <title>Американские военные заказали роботов-носильщиков</title>
+        <description>Компания GDLS поставит для армии США роботов-носильщиков, которых планируют применять для перевозки армейских грузов.</description>
+        <pubDate>Sun, 05 Jan 2020 01:21:33 +0200</pubDate>
+        <link>http://technews2.pp.ua/mutt-carry/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/mutt-carry/</guid>
+        
+        <category>робот</category>
+        
+        <category>курьер</category>
+        
+        
+        <category>robotech</category>
+        
+        <category>army</category>
+        
+      </item>
+    
+      <item>
+        <title>В Samsung разработали GAAFET транзисторы</title>
+        <description>Специалисты компании Samsung разработали технологию производства GAAFET транзисторов, обладающих меньшими размерами, по сравнению с транзисторами FinFET.</description>
+        <pubDate>Sun, 05 Jan 2020 01:16:46 +0200</pubDate>
+        <link>http://technews2.pp.ua/samsung-to-gaafet/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/samsung-to-gaafet/</guid>
+        
+        <category>микрочип</category>
+        
+        <category>транзистор</category>
+        
+        
+        <category>electro</category>
+        
+        <category>nano</category>
+        
+      </item>
+    
+      <item>
+        <title>Китай проверяет солнечный парус</title>
+        <description>Китайские специалисты проверили работоспособность солнечного паруса на аппарате SIASAIL-I.</description>
+        <pubDate>Sun, 05 Jan 2020 01:12:35 +0200</pubDate>
+        <link>http://technews2.pp.ua/siasail-1-first-test/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/siasail-1-first-test/</guid>
+        
+        <category>спутник</category>
+        
+        <category>орбита</category>
+        
+        <category>Солнце</category>
+        
+        
+        <category>space</category>
+        
+      </item>
+    
+      <item>
+        <title>Японские исследователи научили робота чинить себя</title>
+        <description>Японские инженеры собрали робота, обладающего способностью осуществлять саморемонт и выполнять несложные модификации своего корпуса.</description>
+        <pubDate>Sun, 05 Jan 2020 01:02:56 +0200</pubDate>
+        <link>http://technews2.pp.ua/pr2-self-repair/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/pr2-self-repair/</guid>
+        
+        <category>робот</category>
+        
+        <category>алгоритм</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Электропикап R1T повернётся как танк</title>
+        <description>Электропикап от компании Rivian сможет поворачиваться на месте, при помощи 4х отдельных электродвигателей на каждом из колёс.</description>
+        <pubDate>Sun, 05 Jan 2020 00:59:03 +0200</pubDate>
+        <link>http://technews2.pp.ua/rivian-tank-spin/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/rivian-tank-spin/</guid>
+        
+        <category>электромобиль</category>
+        
+        <category>автомобиль</category>
+        
+        
+        <category>energy</category>
+        
+      </item>
+    
+      <item>
+        <title>C наступающим Новым годом 2020!</title>
+        <description>TechNews2 поздравляет читателей с наступающим Новым годом!</description>
+        <pubDate>Tue, 24 Dec 2019 22:41:42 +0200</pubDate>
+        <link>http://technews2.pp.ua/new-year-2020/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/new-year-2020/</guid>
+        
+        <category>салют</category>
+        
+        <category>поздравления</category>
+        
+        
+        <category>fun</category>
+        
+      </item>
+    
+      <item>
+        <title>Роботы Digit поработают в команде</title>
+        <description>Специалисты Agility Robotics научили робота Digit парной работе по переноске грузов.</description>
+        <pubDate>Tue, 24 Dec 2019 17:14:28 +0200</pubDate>
+        <link>http://technews2.pp.ua/digit-dual-work/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/digit-dual-work/</guid>
+        
+        <category>робот</category>
+        
+        <category>алгоритм</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+  </channel>
+</rss>
