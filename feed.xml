@@ -6,9 +6,25 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Jan 2020 17:05:00 +0200</pubDate>
-    <lastBuildDate>Wed, 08 Jan 2020 17:05:00 +0200</lastBuildDate>
+    <pubDate>Fri, 10 Jan 2020 13:29:59 +0200</pubDate>
+    <lastBuildDate>Fri, 10 Jan 2020 13:29:59 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Израильтяне рассказали про лазерный модуль</title>
+        <description>Военные специалисты Израиля разработали лазерный модуль для установки на различные виды транспорта.</description>
+        <pubDate>Fri, 10 Jan 2020 12:23:29 +0200</pubDate>
+        <link>http://technews2.pp.ua/elbit-laser/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/elbit-laser/</guid>
+        
+        <category>лазер</category>
+        
+        <category>оружие</category>
+        
+        
+        <category>army</category>
+        
+      </item>
     
       <item>
         <title>Козырёк от Bosch защитит глаза водителей</title>
@@ -157,22 +173,6 @@
         
         
         <category>fun</category>
-        
-      </item>
-    
-      <item>
-        <title>Роботы Digit поработают в команде</title>
-        <description>Специалисты Agility Robotics научили робота Digit парной работе по переноске грузов.</description>
-        <pubDate>Tue, 24 Dec 2019 17:14:28 +0200</pubDate>
-        <link>http://technews2.pp.ua/digit-dual-work/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/digit-dual-work/</guid>
-        
-        <category>робот</category>
-        
-        <category>алгоритм</category>
-        
-        
-        <category>robotech</category>
         
       </item>
     
