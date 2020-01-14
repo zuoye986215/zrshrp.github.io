@@ -6,9 +6,95 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Jan 2020 13:29:59 +0200</pubDate>
-    <lastBuildDate>Fri, 10 Jan 2020 13:29:59 +0200</lastBuildDate>
+    <pubDate>Tue, 14 Jan 2020 10:51:45 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Jan 2020 10:51:45 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Лазерный детектор найдет комара в комнате</title>
+        <description>Стартап Bzigo предложил использовать лазерный детектор для подсветки насекомых в помещениях, для их последующего уничтожения.</description>
+        <pubDate>Tue, 14 Jan 2020 09:43:56 +0200</pubDate>
+        <link>http://technews2.pp.ua/bzigo-vs-mosquitos/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/bzigo-vs-mosquitos/</guid>
+        
+        <category>лазер</category>
+        
+        <category>насекомые</category>
+        
+        
+        <category>medical</category>
+        
+        <category>physics</category>
+        
+      </item>
+    
+      <item>
+        <title>Пластик облегчил золотое изделие</title>
+        <description>Швейцарские исследователи смогли получить золотой самородок, вес которого в 5 раз меньше обычного сплава.</description>
+        <pubDate>Tue, 14 Jan 2020 09:40:54 +0200</pubDate>
+        <link>http://technews2.pp.ua/golden-plastic/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/golden-plastic/</guid>
+        
+        <category>материал</category>
+        
+        <category>пластик</category>
+        
+        <category>золото</category>
+        
+        
+        <category>physics</category>
+        
+      </item>
+    
+      <item>
+        <title>Ультразвук усилил напечатанные детали</title>
+        <description>Австралийские физики применили ультразвук во время печати титановой детали, что позитивно сказалось на свойствах материала.</description>
+        <pubDate>Tue, 14 Jan 2020 09:33:14 +0200</pubDate>
+        <link>http://technews2.pp.ua/u-sound-3d-print/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/u-sound-3d-print/</guid>
+        
+        <category>3D-принтер</category>
+        
+        <category>звук</category>
+        
+        <category>печать</category>
+        
+        
+        <category>physics</category>
+        
+      </item>
+    
+      <item>
+        <title>Щетка Y-Brush быстро почистит зубы</title>
+        <description>Французская компания Fas Teesh представила свою зубную щетку, способную быстро очищать зубы.</description>
+        <pubDate>Tue, 14 Jan 2020 09:26:40 +0200</pubDate>
+        <link>http://technews2.pp.ua/y-brush/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/y-brush/</guid>
+        
+        <category>зубы</category>
+        
+        <category>гигиена</category>
+        
+        
+        <category>medical</category>
+        
+      </item>
+    
+      <item>
+        <title>В Китае испытали мобильную станцию квантовой связи</title>
+        <description>В КНР впервые создали мобильную станцию спутниковой связи, защищенную при помощи квантовой криптографии.</description>
+        <pubDate>Tue, 14 Jan 2020 09:19:53 +0200</pubDate>
+        <link>http://technews2.pp.ua/cn-quantum-mobile-station/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/cn-quantum-mobile-station/</guid>
+        
+        <category>квантовая запутанность</category>
+        
+        <category>связь</category>
+        
+        
+        <category>space</category>
+        
+      </item>
     
       <item>
         <title>Израильтяне рассказали про лазерный модуль</title>
@@ -89,90 +175,6 @@
         <category>robotech</category>
         
         <category>army</category>
-        
-      </item>
-    
-      <item>
-        <title>В Samsung разработали GAAFET транзисторы</title>
-        <description>Специалисты компании Samsung разработали технологию производства GAAFET транзисторов, обладающих меньшими размерами, по сравнению с транзисторами FinFET.</description>
-        <pubDate>Sun, 05 Jan 2020 01:16:46 +0200</pubDate>
-        <link>http://technews2.pp.ua/samsung-to-gaafet/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/samsung-to-gaafet/</guid>
-        
-        <category>микрочип</category>
-        
-        <category>транзистор</category>
-        
-        
-        <category>electro</category>
-        
-        <category>nano</category>
-        
-      </item>
-    
-      <item>
-        <title>Китай проверяет солнечный парус</title>
-        <description>Китайские специалисты проверили работоспособность солнечного паруса на аппарате SIASAIL-I.</description>
-        <pubDate>Sun, 05 Jan 2020 01:12:35 +0200</pubDate>
-        <link>http://technews2.pp.ua/siasail-1-first-test/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/siasail-1-first-test/</guid>
-        
-        <category>спутник</category>
-        
-        <category>орбита</category>
-        
-        <category>Солнце</category>
-        
-        
-        <category>space</category>
-        
-      </item>
-    
-      <item>
-        <title>Японские исследователи научили робота чинить себя</title>
-        <description>Японские инженеры собрали робота, обладающего способностью осуществлять саморемонт и выполнять несложные модификации своего корпуса.</description>
-        <pubDate>Sun, 05 Jan 2020 01:02:56 +0200</pubDate>
-        <link>http://technews2.pp.ua/pr2-self-repair/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/pr2-self-repair/</guid>
-        
-        <category>робот</category>
-        
-        <category>алгоритм</category>
-        
-        
-        <category>robotech</category>
-        
-      </item>
-    
-      <item>
-        <title>Электропикап R1T повернётся как танк</title>
-        <description>Электропикап от компании Rivian сможет поворачиваться на месте, при помощи 4х отдельных электродвигателей на каждом из колёс.</description>
-        <pubDate>Sun, 05 Jan 2020 00:59:03 +0200</pubDate>
-        <link>http://technews2.pp.ua/rivian-tank-spin/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/rivian-tank-spin/</guid>
-        
-        <category>электромобиль</category>
-        
-        <category>автомобиль</category>
-        
-        
-        <category>energy</category>
-        
-      </item>
-    
-      <item>
-        <title>C наступающим Новым годом 2020!</title>
-        <description>TechNews2 поздравляет читателей с наступающим Новым годом!</description>
-        <pubDate>Tue, 24 Dec 2019 22:41:42 +0200</pubDate>
-        <link>http://technews2.pp.ua/new-year-2020/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/new-year-2020/</guid>
-        
-        <category>салют</category>
-        
-        <category>поздравления</category>
-        
-        
-        <category>fun</category>
         
       </item>
     
