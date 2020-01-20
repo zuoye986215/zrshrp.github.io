@@ -6,9 +6,95 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Jan 2020 12:50:06 +0200</pubDate>
-    <lastBuildDate>Fri, 17 Jan 2020 12:50:06 +0200</lastBuildDate>
+    <pubDate>Mon, 20 Jan 2020 17:27:47 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Jan 2020 17:27:47 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>SpaceX испытала систему спасения Crew Dragon</title>
+        <description>Компания SpaceX провела успешные испытания системы для аварийного спасения команды корабля Crew Dragon.</description>
+        <pubDate>Mon, 20 Jan 2020 16:22:09 +0200</pubDate>
+        <link>http://technews2.pp.ua/crew-dragon-escape-test/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/crew-dragon-escape-test/</guid>
+        
+        <category>космический корабль</category>
+        
+        <category>ракета</category>
+        
+        
+        <category>space</category>
+        
+      </item>
+    
+      <item>
+        <title>Военные США испытали беспилотного «гремлина»</title>
+        <description>Беспилотник А X-61A от компании Dynetics был успешно испытан ВВС США в рамках проекта Gremlins.</description>
+        <pubDate>Mon, 20 Jan 2020 16:17:30 +0200</pubDate>
+        <link>http://technews2.pp.ua/gremlin-x-61-test/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/gremlin-x-61-test/</guid>
+        
+        <category>беспилотник</category>
+        
+        <category>ракета</category>
+        
+        
+        <category>robotech</category>
+        
+        <category>army</category>
+        
+      </item>
+    
+      <item>
+        <title>Грибы помогут создать стройматериалы в космосе</title>
+        <description>Исследователи NASA проверяют возможность использования грибного мицелия для создания предметов и построек за пределами Земли.</description>
+        <pubDate>Mon, 20 Jan 2020 16:12:21 +0200</pubDate>
+        <link>http://technews2.pp.ua/fungus-chairs/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/fungus-chairs/</guid>
+        
+        <category>грибы</category>
+        
+        <category>материал</category>
+        
+        
+        <category>space</category>
+        
+      </item>
+    
+      <item>
+        <title>Airbus проверил систему автоматического взлета</title>
+        <description>Концерн Airbus занимается проектом полной автоматизации авиаперелётов. Недавно была успешно протестирована система визуального взлёта на автопилоте.</description>
+        <pubDate>Mon, 20 Jan 2020 16:08:36 +0200</pubDate>
+        <link>http://technews2.pp.ua/attol-airbus/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/attol-airbus/</guid>
+        
+        <category>самолет</category>
+        
+        <category>беспилотник</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Быстро вращающаяся частица поможет измерить квантовое трение</title>
+        <description>Специалисты из университета Пурду получили сверхточный датчик квантового трения, использовав вращение наночастицы.</description>
+        <pubDate>Mon, 20 Jan 2020 16:04:11 +0200</pubDate>
+        <link>http://technews2.pp.ua/purdu-fast-rotation-particle/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/purdu-fast-rotation-particle/</guid>
+        
+        <category>наночастицы</category>
+        
+        <category>волна</category>
+        
+        <category>датчик</category>
+        
+        
+        <category>physics</category>
+        
+        <category>nano</category>
+        
+      </item>
     
       <item>
         <title>Американцы испытывают адаптивное крыло</title>
@@ -89,94 +175,6 @@
         
         
         <category>energy</category>
-        
-      </item>
-    
-      <item>
-        <title>Представлена серийная версия ЛА Airlander 10</title>
-        <description>Британская компания показала публике серийную версию Airlander 10. Планируются дальнейшие испытания и сертификация.</description>
-        <pubDate>Wed, 15 Jan 2020 16:17:43 +0200</pubDate>
-        <link>http://technews2.pp.ua/airlander10-serial/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/airlander10-serial/</guid>
-        
-        <category>транспорт</category>
-        
-        <category>летательный аппарат</category>
-        
-        
-        <category>energy</category>
-        
-      </item>
-    
-      <item>
-        <title>Микророботов собрали из живых клеток</title>
-        <description>Американские исследователи сообщили об успешном создании первых в мире роботов, состоящих из живых клеток.</description>
-        <pubDate>Wed, 15 Jan 2020 16:13:14 +0200</pubDate>
-        <link>http://technews2.pp.ua/ksenobots/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/ksenobots/</guid>
-        
-        <category>микророботы</category>
-        
-        <category>клетка</category>
-        
-        
-        <category>medical</category>
-        
-        <category>robotech</category>
-        
-      </item>
-    
-      <item>
-        <title>Лазерный детектор найдет комара в комнате</title>
-        <description>Стартап Bzigo предложил использовать лазерный детектор для подсветки насекомых в помещениях, для их последующего уничтожения.</description>
-        <pubDate>Tue, 14 Jan 2020 09:43:56 +0200</pubDate>
-        <link>http://technews2.pp.ua/bzigo-vs-mosquitos/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/bzigo-vs-mosquitos/</guid>
-        
-        <category>лазер</category>
-        
-        <category>насекомые</category>
-        
-        
-        <category>medical</category>
-        
-        <category>physics</category>
-        
-      </item>
-    
-      <item>
-        <title>Пластик облегчил золотое изделие</title>
-        <description>Швейцарские исследователи смогли получить золотой самородок, вес которого в 5 раз меньше обычного сплава.</description>
-        <pubDate>Tue, 14 Jan 2020 09:40:54 +0200</pubDate>
-        <link>http://technews2.pp.ua/golden-plastic/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/golden-plastic/</guid>
-        
-        <category>материал</category>
-        
-        <category>пластик</category>
-        
-        <category>золото</category>
-        
-        
-        <category>physics</category>
-        
-      </item>
-    
-      <item>
-        <title>Ультразвук усилил напечатанные детали</title>
-        <description>Австралийские физики применили ультразвук во время печати титановой детали, что позитивно сказалось на свойствах материала.</description>
-        <pubDate>Tue, 14 Jan 2020 09:33:14 +0200</pubDate>
-        <link>http://technews2.pp.ua/u-sound-3d-print/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/u-sound-3d-print/</guid>
-        
-        <category>3D-принтер</category>
-        
-        <category>звук</category>
-        
-        <category>печать</category>
-        
-        
-        <category>physics</category>
         
       </item>
     
