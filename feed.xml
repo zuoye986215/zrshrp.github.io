@@ -6,9 +6,109 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Jan 2020 17:27:47 +0200</pubDate>
-    <lastBuildDate>Mon, 20 Jan 2020 17:27:47 +0200</lastBuildDate>
+    <pubDate>Wed, 22 Jan 2020 10:38:03 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Jan 2020 10:38:03 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Самовосстанавливающийся бетон укрепят бактерии</title>
+        <description>Американские ученые создали укреплённый бетон с возможностями самовосстановления. В материале используется работа микробов, производящих карбонат кальция.</description>
+        <pubDate>Wed, 22 Jan 2020 09:24:16 +0200</pubDate>
+        <link>http://technews2.pp.ua/living-brick/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/living-brick/</guid>
+        
+        <category>строительство</category>
+        
+        <category>бактерии</category>
+        
+        <category>материал</category>
+        
+        
+        <category>energy</category>
+        
+      </item>
+    
+      <item>
+        <title>Робот из Китая лазит по отвесным стенам</title>
+        <description>Китайские робототехники собрали робота, который использует ZPD-метод для того, чтобы лазить по вертикальным поверхностям.</description>
+        <pubDate>Wed, 22 Jan 2020 09:11:01 +0200</pubDate>
+        <link>http://technews2.pp.ua/cn-wall-climbing-robot/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/cn-wall-climbing-robot/</guid>
+        
+        <category>робот</category>
+        
+        <category>вода</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Израильтяне потушат пожары пакетиками</title>
+        <description>Компания Elbit Systems испытала новое средство для тушения пожаров с большой высоты и в ночных условиях при помощи пакетов с жидкостью.</description>
+        <pubDate>Wed, 22 Jan 2020 08:31:05 +0200</pubDate>
+        <link>http://technews2.pp.ua/elbit-hydrop/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/elbit-hydrop/</guid>
+        
+        <category>пожаротушение</category>
+        
+        <category>вода</category>
+        
+        
+        <category>energy</category>
+        
+      </item>
+    
+      <item>
+        <title>Mojo Vision создала AR контактную линзу</title>
+        <description>На выставке CES 2020 представители компании Mojo Vision продемонстрировали прототип контактной линзы с технологией дополненной реальности.</description>
+        <pubDate>Wed, 22 Jan 2020 08:27:19 +0200</pubDate>
+        <link>http://technews2.pp.ua/mojo-vision-lense/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/mojo-vision-lense/</guid>
+        
+        <category>глаза</category>
+        
+        <category>датчик</category>
+        
+        
+        <category>electro</category>
+        
+        <category>medical</category>
+        
+      </item>
+    
+      <item>
+        <title>Дроны примагнитились в полёте</title>
+        <description>Индийский инженер разработал систему стыковки для дронов, работающую на основе анализа данных камеры и стыковочных магнитов.</description>
+        <pubDate>Wed, 22 Jan 2020 08:24:37 +0200</pubDate>
+        <link>http://technews2.pp.ua/drone-magnet-docking/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/drone-magnet-docking/</guid>
+        
+        <category>дрон</category>
+        
+        <category>алгоритм</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Британцы проверили танк Streetfighter II</title>
+        <description>Военные Великобритании проверили работоспособность модификации танка Challenger 2, предназначенную для ведения уличных боёв.</description>
+        <pubDate>Wed, 22 Jan 2020 08:17:06 +0200</pubDate>
+        <link>http://technews2.pp.ua/tank-streetfighter2/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/tank-streetfighter2/</guid>
+        
+        <category>бронетехника</category>
+        
+        <category>оружие</category>
+        
+        
+        <category>army</category>
+        
+      </item>
     
       <item>
         <title>SpaceX испытала систему спасения Crew Dragon</title>
@@ -73,108 +173,6 @@
         
         
         <category>robotech</category>
-        
-      </item>
-    
-      <item>
-        <title>Быстро вращающаяся частица поможет измерить квантовое трение</title>
-        <description>Специалисты из университета Пурду получили сверхточный датчик квантового трения, использовав вращение наночастицы.</description>
-        <pubDate>Mon, 20 Jan 2020 16:04:11 +0200</pubDate>
-        <link>http://technews2.pp.ua/purdu-fast-rotation-particle/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/purdu-fast-rotation-particle/</guid>
-        
-        <category>наночастицы</category>
-        
-        <category>волна</category>
-        
-        <category>датчик</category>
-        
-        
-        <category>physics</category>
-        
-        <category>nano</category>
-        
-      </item>
-    
-      <item>
-        <title>Американцы испытывают адаптивное крыло</title>
-        <description>Исследователи ВВС США показали видео испытаний нового адаптивного крыла, способного менять форму в ходе полета.</description>
-        <pubDate>Fri, 17 Jan 2020 11:44:45 +0200</pubDate>
-        <link>http://technews2.pp.ua/vccw-wing-testing/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/vccw-wing-testing/</guid>
-        
-        <category>летательный аппарат</category>
-        
-        <category>аэродинамика</category>
-        
-        
-        <category>energy</category>
-        
-      </item>
-    
-      <item>
-        <title>Boeing показала полёт Starliner</title>
-        <description>Компания Boeing показала видео полёта и посадки космического корабля Starliner, снятое из отсека для экипажа.</description>
-        <pubDate>Fri, 17 Jan 2020 11:38:08 +0200</pubDate>
-        <link>http://technews2.pp.ua/starliner-landing-vid/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/starliner-landing-vid/</guid>
-        
-        <category>ракета</category>
-        
-        <category>космический корабль</category>
-        
-        
-        <category>space</category>
-        
-      </item>
-    
-      <item>
-        <title>Деревья гинкго стареют иначе</title>
-        <description>Исследователи нашли причины долголетия деревьев гинкго, проанализировав параметры более тридцати деревьев различного возраста.</description>
-        <pubDate>Fri, 17 Jan 2020 11:34:00 +0200</pubDate>
-        <link>http://technews2.pp.ua/ginkgo-tree-aging/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/ginkgo-tree-aging/</guid>
-        
-        <category>старение</category>
-        
-        <category>растения</category>
-        
-        
-        <category>medical</category>
-        
-      </item>
-    
-      <item>
-        <title>Стабильный детектор определит нейтроны напрямую</title>
-        <description>Американские ученые создали полупроводниковый датчик для прямого определения тепловых нейтронов.</description>
-        <pubDate>Fri, 17 Jan 2020 11:24:27 +0200</pubDate>
-        <link>http://technews2.pp.ua/semiconductor-neutron-detector/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/semiconductor-neutron-detector/</guid>
-        
-        <category>датчик</category>
-        
-        <category>нейтрон</category>
-        
-        <category>полупроводник</category>
-        
-        
-        <category>physics</category>
-        
-      </item>
-    
-      <item>
-        <title>Батарея выдержит до 5 дней работы смартфона</title>
-        <description>Британские специалисты разработали литий-серную батарею, способную выдерживать пятидневную работу смартфона.</description>
-        <pubDate>Wed, 15 Jan 2020 16:28:35 +0200</pubDate>
-        <link>http://technews2.pp.ua/monash-battery/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/monash-battery/</guid>
-        
-        <category>батарея</category>
-        
-        <category>аккумулятор</category>
-        
-        
-        <category>energy</category>
         
       </item>
     
