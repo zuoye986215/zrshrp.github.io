@@ -6,9 +6,59 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Jan 2020 14:35:01 +0200</pubDate>
-    <lastBuildDate>Fri, 24 Jan 2020 14:35:01 +0200</lastBuildDate>
+    <pubDate>Tue, 28 Jan 2020 10:33:10 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Jan 2020 10:33:10 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>ИИ проверили виртуальным авиабоем</title>
+        <description>Агентство DARPA провело испытания нейросетевых алгоритмов при помощи виртуального воздушного симулятора. Целью программы является дальнейшее совершенствование проектов БПЛА.</description>
+        <pubDate>Tue, 28 Jan 2020 09:24:27 +0200</pubDate>
+        <link>http://technews2.pp.ua/ai-vr-air-combat-test/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/ai-vr-air-combat-test/</guid>
+        
+        <category>искусственный интеллект</category>
+        
+        <category>самолет</category>
+        
+        
+        <category>electro</category>
+        
+      </item>
+    
+      <item>
+        <title>Создана карта трети мозга дрозофилы</title>
+        <description>Американские медики рассказали о результатах долгосрочных исследований структурных связей мозга мухи дрозофилы.</description>
+        <pubDate>Tue, 28 Jan 2020 09:05:04 +0200</pubDate>
+        <link>http://technews2.pp.ua/fly-brain-connections/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/fly-brain-connections/</guid>
+        
+        <category>мозг</category>
+        
+        <category>насекомые</category>
+        
+        
+        <category>medical</category>
+        
+      </item>
+    
+      <item>
+        <title>Динамический интерьер надуется в нужном месте</title>
+        <description>Японские и американские инженеры разработали площадку с надувными выдвижными стержнями, выполняющими роль динамического интерфейса.</description>
+        <pubDate>Tue, 28 Jan 2020 08:17:08 +0200</pubDate>
+        <link>http://technews2.pp.ua/lifttiles/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/lifttiles/</guid>
+        
+        <category>дисплей</category>
+        
+        <category>интерфейс</category>
+        
+        <category>виртуальная реальность</category>
+        
+        
+        <category>electro</category>
+        
+      </item>
     
       <item>
         <title>Origin - робоавтомобиль от Cruise</title>
@@ -126,56 +176,6 @@
         <category>робот</category>
         
         <category>вода</category>
-        
-        
-        <category>robotech</category>
-        
-      </item>
-    
-      <item>
-        <title>Израильтяне потушат пожары пакетиками</title>
-        <description>Компания Elbit Systems испытала новое средство для тушения пожаров с большой высоты и в ночных условиях при помощи пакетов с жидкостью.</description>
-        <pubDate>Wed, 22 Jan 2020 08:31:05 +0200</pubDate>
-        <link>http://technews2.pp.ua/elbit-hydrop/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/elbit-hydrop/</guid>
-        
-        <category>пожаротушение</category>
-        
-        <category>вода</category>
-        
-        
-        <category>energy</category>
-        
-      </item>
-    
-      <item>
-        <title>Mojo Vision создала AR контактную линзу</title>
-        <description>На выставке CES 2020 представители компании Mojo Vision продемонстрировали прототип контактной линзы с технологией дополненной реальности.</description>
-        <pubDate>Wed, 22 Jan 2020 08:27:19 +0200</pubDate>
-        <link>http://technews2.pp.ua/mojo-vision-lense/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/mojo-vision-lense/</guid>
-        
-        <category>глаза</category>
-        
-        <category>датчик</category>
-        
-        
-        <category>electro</category>
-        
-        <category>medical</category>
-        
-      </item>
-    
-      <item>
-        <title>Дроны примагнитились в полёте</title>
-        <description>Индийский инженер разработал систему стыковки для дронов, работающую на основе анализа данных камеры и стыковочных магнитов.</description>
-        <pubDate>Wed, 22 Jan 2020 08:24:37 +0200</pubDate>
-        <link>http://technews2.pp.ua/drone-magnet-docking/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/drone-magnet-docking/</guid>
-        
-        <category>дрон</category>
-        
-        <category>алгоритм</category>
         
         
         <category>robotech</category>
