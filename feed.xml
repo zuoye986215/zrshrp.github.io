@@ -6,9 +6,59 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jan 2020 10:33:10 +0200</pubDate>
-    <lastBuildDate>Tue, 28 Jan 2020 10:33:10 +0200</lastBuildDate>
+    <pubDate>Wed, 29 Jan 2020 17:34:25 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Jan 2020 17:34:25 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>X tractor - перспективный роботрактор от Kubota</title>
+        <description>Японские робототехники показали публике прототип роботизированного электротрактора, предназначеннного для работы на полях.</description>
+        <pubDate>Wed, 29 Jan 2020 16:29:35 +0200</pubDate>
+        <link>http://technews2.pp.ua/kubota-x/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/kubota-x/</guid>
+        
+        <category>робот</category>
+        
+        <category>алгоритм</category>
+        
+        <category>сельское хозяйство</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Микропоры охладили MOF-структуры</title>
+        <description>Китайские инженеры применили метод испарительного охлаждения электроники, используя микропоры композитов в качестве резервуаров для хранения атмосферной влаги.</description>
+        <pubDate>Wed, 29 Jan 2020 16:24:30 +0200</pubDate>
+        <link>http://technews2.pp.ua/cn-mof-sweating/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/cn-mof-sweating/</guid>
+        
+        <category>охлаждение</category>
+        
+        <category>композит</category>
+        
+        
+        <category>physics</category>
+        
+      </item>
+    
+      <item>
+        <title>Микрочиповый радар увидит сквозь стены</title>
+        <description>Команде индийских инженеров удалось интегрировать полнофункциональный радар в микрочип.</description>
+        <pubDate>Wed, 29 Jan 2020 16:19:40 +0200</pubDate>
+        <link>http://technews2.pp.ua/arsl-chirp/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/arsl-chirp/</guid>
+        
+        <category>микрочип</category>
+        
+        <category>волна</category>
+        
+        
+        <category>electro</category>
+        
+      </item>
     
       <item>
         <title>ИИ проверили виртуальным авиабоем</title>
@@ -127,58 +177,6 @@
         <category>physics</category>
         
         <category>army</category>
-        
-      </item>
-    
-      <item>
-        <title>Для роботов сделали активноматричную «кожу»</title>
-        <description>Международная группа ученых разработала электронную кожу для роботов, обладающую возможностью регистрации изменений магнитного поля.</description>
-        <pubDate>Fri, 24 Jan 2020 12:43:27 +0200</pubDate>
-        <link>http://technews2.pp.ua/electro-skin-magnet-detect/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/electro-skin-magnet-detect/</guid>
-        
-        <category>кожа</category>
-        
-        <category>датчик</category>
-        
-        <category>магнит</category>
-        
-        
-        <category>electro</category>
-        
-      </item>
-    
-      <item>
-        <title>Самовосстанавливающийся бетон укрепят бактерии</title>
-        <description>Американские ученые создали укреплённый бетон с возможностями самовосстановления. В материале используется работа микробов, производящих карбонат кальция.</description>
-        <pubDate>Wed, 22 Jan 2020 09:24:16 +0200</pubDate>
-        <link>http://technews2.pp.ua/living-brick/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/living-brick/</guid>
-        
-        <category>строительство</category>
-        
-        <category>бактерии</category>
-        
-        <category>материал</category>
-        
-        
-        <category>energy</category>
-        
-      </item>
-    
-      <item>
-        <title>Робот из Китая лазит по отвесным стенам</title>
-        <description>Китайские робототехники собрали робота, который использует ZPD-метод для того, чтобы лазить по вертикальным поверхностям.</description>
-        <pubDate>Wed, 22 Jan 2020 09:11:01 +0200</pubDate>
-        <link>http://technews2.pp.ua/cn-wall-climbing-robot/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/cn-wall-climbing-robot/</guid>
-        
-        <category>робот</category>
-        
-        <category>вода</category>
-        
-        
-        <category>robotech</category>
         
       </item>
     
