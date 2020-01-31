@@ -6,9 +6,109 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Jan 2020 17:34:25 +0200</pubDate>
-    <lastBuildDate>Wed, 29 Jan 2020 17:34:25 +0200</lastBuildDate>
+    <pubDate>Fri, 31 Jan 2020 12:54:07 +0200</pubDate>
+    <lastBuildDate>Fri, 31 Jan 2020 12:54:07 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Доска Neptun X пролетит над водой на скорости</title>
+        <description>Компания eFoilFly показала свою электродоску для серфинга, работающую по принципу подводного крыла.</description>
+        <pubDate>Fri, 31 Jan 2020 11:48:05 +0200</pubDate>
+        <link>http://technews2.pp.ua/neptun-x-board/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/neptun-x-board/</guid>
+        
+        <category>вода</category>
+        
+        <category>корабль</category>
+        
+        
+        <category>energy</category>
+        
+      </item>
+    
+      <item>
+        <title>Астрономы сделали самые детализированные снимки Солнца</title>
+        <description>Наземный телескоп DKIST помог астрономам получить наиболее детализированные снимки солнечной поверхности.</description>
+        <pubDate>Fri, 31 Jan 2020 11:44:37 +0200</pubDate>
+        <link>http://technews2.pp.ua/suns-surface-shown/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/suns-surface-shown/</guid>
+        
+        <category>Солнце</category>
+        
+        <category>звезда</category>
+        
+        
+        <category>space</category>
+        
+      </item>
+    
+      <item>
+        <title>Химики синтезировали рекордное молекулярное кольцо</title>
+        <description>Британские химики успешно синтезировали самое большое ароматическое кольцо со 162 электронами.</description>
+        <pubDate>Fri, 31 Jan 2020 11:39:35 +0200</pubDate>
+        <link>http://technews2.pp.ua/nano-aromaticity-ring/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/nano-aromaticity-ring/</guid>
+        
+        <category>химия</category>
+        
+        <category>молекула</category>
+        
+        
+        <category>physics</category>
+        
+      </item>
+    
+      <item>
+        <title>Медузы-киборги плавают в 3 раза быстрее обычных</title>
+        <description>Ученые смогли ускорить медуз электрической стимуляцией, что может дать возможность исследовать океан с их помощью.</description>
+        <pubDate>Fri, 31 Jan 2020 11:35:39 +0200</pubDate>
+        <link>http://technews2.pp.ua/cyborg-jellyfish/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/cyborg-jellyfish/</guid>
+        
+        <category>кибирг</category>
+        
+        <category>вода</category>
+        
+        
+        <category>medical</category>
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Выращенные кардиомиоциты пересадили пациенту</title>
+        <description>Кардиохирурги Осакского университета успешно пересадили пациенту искусственно-выращенные кардиомиоциты, полученные из стволовых клеток.</description>
+        <pubDate>Fri, 31 Jan 2020 11:31:47 +0200</pubDate>
+        <link>http://technews2.pp.ua/ips-cells/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/ips-cells/</guid>
+        
+        <category>сердце</category>
+        
+        <category>трансплантация</category>
+        
+        <category>стволовые клетки</category>
+        
+        
+        <category>medical</category>
+        
+      </item>
+    
+      <item>
+        <title>Альбатросы помогут найти браконьеров</title>
+        <description>Европейские ученые одели на альбатросов датчики для обнаружения незарегистрированных рыболовных судов.</description>
+        <pubDate>Fri, 31 Jan 2020 11:27:21 +0200</pubDate>
+        <link>http://technews2.pp.ua/albatross-radar-map/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/albatross-radar-map/</guid>
+        
+        <category>датчик</category>
+        
+        <category>радар</category>
+        
+        
+        <category>electro</category>
+        
+      </item>
     
       <item>
         <title>X tractor - перспективный роботрактор от Kubota</title>
@@ -73,110 +173,6 @@
         
         
         <category>electro</category>
-        
-      </item>
-    
-      <item>
-        <title>Создана карта трети мозга дрозофилы</title>
-        <description>Американские медики рассказали о результатах долгосрочных исследований структурных связей мозга мухи дрозофилы.</description>
-        <pubDate>Tue, 28 Jan 2020 09:05:04 +0200</pubDate>
-        <link>http://technews2.pp.ua/fly-brain-connections/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/fly-brain-connections/</guid>
-        
-        <category>мозг</category>
-        
-        <category>насекомые</category>
-        
-        
-        <category>medical</category>
-        
-      </item>
-    
-      <item>
-        <title>Динамический интерьер надуется в нужном месте</title>
-        <description>Японские и американские инженеры разработали площадку с надувными выдвижными стержнями, выполняющими роль динамического интерфейса.</description>
-        <pubDate>Tue, 28 Jan 2020 08:17:08 +0200</pubDate>
-        <link>http://technews2.pp.ua/lifttiles/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/lifttiles/</guid>
-        
-        <category>дисплей</category>
-        
-        <category>интерфейс</category>
-        
-        <category>виртуальная реальность</category>
-        
-        
-        <category>electro</category>
-        
-      </item>
-    
-      <item>
-        <title>Origin - робоавтомобиль от Cruise</title>
-        <description>Компания Cruise показала публике свой полностью беспилотный микроавтобус Origin, лишенный обычных органов управления.</description>
-        <pubDate>Fri, 24 Jan 2020 13:23:39 +0200</pubDate>
-        <link>http://technews2.pp.ua/cruise-origin-released/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/cruise-origin-released/</guid>
-        
-        <category>автомобиль</category>
-        
-        <category>беспилотник</category>
-        
-        
-        <category>robotech</category>
-        
-      </item>
-    
-      <item>
-        <title>Ученые увидели появление атомарной связи</title>
-        <description>Немецкие учёные смогли показать процесс образования молекулярных связей между атомами.</description>
-        <pubDate>Fri, 24 Jan 2020 13:09:44 +0200</pubDate>
-        <link>http://technews2.pp.ua/salve-atoms-reaction/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/salve-atoms-reaction/</guid>
-        
-        <category>атом</category>
-        
-        <category>частица</category>
-        
-        
-        <category>physics</category>
-        
-        <category>nano</category>
-        
-      </item>
-    
-      <item>
-        <title>Разработана эластичная полимерная кожа</title>
-        <description>Учёные смогли создать прототип заменителя кожы, используя в качестве основы щетковые полимерные молекулы.</description>
-        <pubDate>Fri, 24 Jan 2020 12:54:40 +0200</pubDate>
-        <link>http://technews2.pp.ua/medical-polymer-skin/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/medical-polymer-skin/</guid>
-        
-        <category>кожа</category>
-        
-        <category>полимер</category>
-        
-        
-        <category>medical</category>
-        
-        <category>physics</category>
-        
-      </item>
-    
-      <item>
-        <title>Кремний усиливает броню из карбида бора</title>
-        <description>Материаловеды из США научились делать бронежилеты из карбида бора более прочными, добавляя в них кремний.</description>
-        <pubDate>Fri, 24 Jan 2020 12:49:37 +0200</pubDate>
-        <link>http://technews2.pp.ua/silicon-into-armor/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/silicon-into-armor/</guid>
-        
-        <category>материал</category>
-        
-        <category>броня</category>
-        
-        
-        <category>physics</category>
-        
-        <category>army</category>
         
       </item>
     
