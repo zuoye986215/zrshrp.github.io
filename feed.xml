@@ -6,9 +6,143 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Jan 2020 12:54:07 +0200</pubDate>
-    <lastBuildDate>Fri, 31 Jan 2020 12:54:07 +0200</lastBuildDate>
+    <pubDate>Tue, 04 Feb 2020 19:38:16 +0200</pubDate>
+    <lastBuildDate>Tue, 04 Feb 2020 19:38:16 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Вертолет SB&gt;1 проверили с убранным шасси</title>
+        <description>Вертолет SB&gt;1 Defiant в ходе летных испытаний пролетел с убранным шасси, на скорости около 240 км/час.</description>
+        <pubDate>Tue, 04 Feb 2020 18:29:54 +0200</pubDate>
+        <link>http://technews2.pp.ua/sb1-defiant-130knots/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/sb1-defiant-130knots/</guid>
+        
+        <category>вертолет</category>
+        
+        <category>оружие</category>
+        
+        
+        <category>army</category>
+        
+      </item>
+    
+      <item>
+        <title>Генная инженерия улучшила жизнь пчёл</title>
+        <description>Американские генетики постарались облегчить проблемы пчёл с клещами и вирусами при помощи генетической модификации бактерий.</description>
+        <pubDate>Tue, 04 Feb 2020 18:26:32 +0200</pubDate>
+        <link>http://technews2.pp.ua/save-bees-gmo/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/save-bees-gmo/</guid>
+        
+        <category>ГМО</category>
+        
+        <category>насекомые</category>
+        
+        <category>бактерия</category>
+        
+        
+        <category>medical</category>
+        
+      </item>
+    
+      <item>
+        <title>Робопалец научили потеть</title>
+        <description>Итальянские и американские инженеры собрали робопалец, который может охлаждать себя засчёт искусственного потоотделения.</description>
+        <pubDate>Tue, 04 Feb 2020 18:15:38 +0200</pubDate>
+        <link>http://technews2.pp.ua/perspiration-finger/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/perspiration-finger/</guid>
+        
+        <category>манипулятор</category>
+        
+        <category>охлаждение</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Анти-солнечные батареи дадут энергию в ночное время</title>
+        <description>Физики из Калифорнийского Университета придумали способ получения электричества за счет нагрева терморадиационных элементов.</description>
+        <pubDate>Tue, 04 Feb 2020 18:11:53 +0200</pubDate>
+        <link>http://technews2.pp.ua/anti-solar-panels-concept/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/anti-solar-panels-concept/</guid>
+        
+        <category>солнечные батареи</category>
+        
+        <category>электричество</category>
+        
+        
+        <category>physics</category>
+        
+        <category>energy</category>
+        
+      </item>
+    
+      <item>
+        <title>Умный шлем подскажет пути пожарным</title>
+        <description>Команда инженеров из США создала прототип тактильного шлема для спасателей и пожарных, передающий информацию виброакустическим способом.</description>
+        <pubDate>Tue, 04 Feb 2020 18:07:14 +0200</pubDate>
+        <link>http://technews2.pp.ua/nist-haptic/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/nist-haptic/</guid>
+        
+        <category>пожар</category>
+        
+        <category>дополненная реальность</category>
+        
+        
+        <category>electro</category>
+        
+      </item>
+    
+      <item>
+        <title>Найдены T-клетки, подходящие для борьбы с раком</title>
+        <description>Специалисты из Университета Кардиффа нашли новый тип клеток Т-киллеров, имеющих потенциал стать основой для универсальной противораковой терапии.</description>
+        <pubDate>Tue, 04 Feb 2020 18:00:17 +0200</pubDate>
+        <link>http://technews2.pp.ua/hla-vs-c/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/hla-vs-c/</guid>
+        
+        <category>рак</category>
+        
+        <category>иммунитет</category>
+        
+        
+        <category>medical</category>
+        
+      </item>
+    
+      <item>
+        <title>Экзоскелет внесли в Книгу рекордов</title>
+        <description>Компания Furrion добилась внесения в Книгу рекордов Гиннесса своего четырехногого экзоскелета.</description>
+        <pubDate>Tue, 04 Feb 2020 17:56:29 +0200</pubDate>
+        <link>http://technews2.pp.ua/furion-prosthesis/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/furion-prosthesis/</guid>
+        
+        <category>экзоскелет</category>
+        
+        <category>манипулятор</category>
+        
+        <category>рекорд</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Сверхскоростная камера поможет увидеть ударные волны</title>
+        <description>Американские физики разработали сверхскоростную камеру, которая может снимать видео, содержащее до 1 триллиона кадров в секунду.</description>
+        <pubDate>Tue, 04 Feb 2020 17:50:51 +0200</pubDate>
+        <link>http://technews2.pp.ua/lle-cup-camera/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/lle-cup-camera/</guid>
+        
+        <category>камера</category>
+        
+        <category>оптика</category>
+        
+        
+        <category>physics</category>
+        
+      </item>
     
       <item>
         <title>Доска Neptun X пролетит над водой на скорости</title>
@@ -39,140 +173,6 @@
         
         
         <category>space</category>
-        
-      </item>
-    
-      <item>
-        <title>Химики синтезировали рекордное молекулярное кольцо</title>
-        <description>Британские химики успешно синтезировали самое большое ароматическое кольцо со 162 электронами.</description>
-        <pubDate>Fri, 31 Jan 2020 11:39:35 +0200</pubDate>
-        <link>http://technews2.pp.ua/nano-aromaticity-ring/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/nano-aromaticity-ring/</guid>
-        
-        <category>химия</category>
-        
-        <category>молекула</category>
-        
-        
-        <category>physics</category>
-        
-      </item>
-    
-      <item>
-        <title>Медузы-киборги плавают в 3 раза быстрее обычных</title>
-        <description>Ученые смогли ускорить медуз электрической стимуляцией, что может дать возможность исследовать океан с их помощью.</description>
-        <pubDate>Fri, 31 Jan 2020 11:35:39 +0200</pubDate>
-        <link>http://technews2.pp.ua/cyborg-jellyfish/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/cyborg-jellyfish/</guid>
-        
-        <category>кибирг</category>
-        
-        <category>вода</category>
-        
-        
-        <category>medical</category>
-        
-        <category>robotech</category>
-        
-      </item>
-    
-      <item>
-        <title>Выращенные кардиомиоциты пересадили пациенту</title>
-        <description>Кардиохирурги Осакского университета успешно пересадили пациенту искусственно-выращенные кардиомиоциты, полученные из стволовых клеток.</description>
-        <pubDate>Fri, 31 Jan 2020 11:31:47 +0200</pubDate>
-        <link>http://technews2.pp.ua/ips-cells/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/ips-cells/</guid>
-        
-        <category>сердце</category>
-        
-        <category>трансплантация</category>
-        
-        <category>стволовые клетки</category>
-        
-        
-        <category>medical</category>
-        
-      </item>
-    
-      <item>
-        <title>Альбатросы помогут найти браконьеров</title>
-        <description>Европейские ученые одели на альбатросов датчики для обнаружения незарегистрированных рыболовных судов.</description>
-        <pubDate>Fri, 31 Jan 2020 11:27:21 +0200</pubDate>
-        <link>http://technews2.pp.ua/albatross-radar-map/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/albatross-radar-map/</guid>
-        
-        <category>датчик</category>
-        
-        <category>радар</category>
-        
-        
-        <category>electro</category>
-        
-      </item>
-    
-      <item>
-        <title>X tractor - перспективный роботрактор от Kubota</title>
-        <description>Японские робототехники показали публике прототип роботизированного электротрактора, предназначеннного для работы на полях.</description>
-        <pubDate>Wed, 29 Jan 2020 16:29:35 +0200</pubDate>
-        <link>http://technews2.pp.ua/kubota-x/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/kubota-x/</guid>
-        
-        <category>робот</category>
-        
-        <category>алгоритм</category>
-        
-        <category>сельское хозяйство</category>
-        
-        
-        <category>robotech</category>
-        
-      </item>
-    
-      <item>
-        <title>Микропоры охладили MOF-структуры</title>
-        <description>Китайские инженеры применили метод испарительного охлаждения электроники, используя микропоры композитов в качестве резервуаров для хранения атмосферной влаги.</description>
-        <pubDate>Wed, 29 Jan 2020 16:24:30 +0200</pubDate>
-        <link>http://technews2.pp.ua/cn-mof-sweating/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/cn-mof-sweating/</guid>
-        
-        <category>охлаждение</category>
-        
-        <category>композит</category>
-        
-        
-        <category>physics</category>
-        
-      </item>
-    
-      <item>
-        <title>Микрочиповый радар увидит сквозь стены</title>
-        <description>Команде индийских инженеров удалось интегрировать полнофункциональный радар в микрочип.</description>
-        <pubDate>Wed, 29 Jan 2020 16:19:40 +0200</pubDate>
-        <link>http://technews2.pp.ua/arsl-chirp/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/arsl-chirp/</guid>
-        
-        <category>микрочип</category>
-        
-        <category>волна</category>
-        
-        
-        <category>electro</category>
-        
-      </item>
-    
-      <item>
-        <title>ИИ проверили виртуальным авиабоем</title>
-        <description>Агентство DARPA провело испытания нейросетевых алгоритмов при помощи виртуального воздушного симулятора. Целью программы является дальнейшее совершенствование проектов БПЛА.</description>
-        <pubDate>Tue, 28 Jan 2020 09:24:27 +0200</pubDate>
-        <link>http://technews2.pp.ua/ai-vr-air-combat-test/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/ai-vr-air-combat-test/</guid>
-        
-        <category>искусственный интеллект</category>
-        
-        <category>самолет</category>
-        
-        
-        <category>electro</category>
         
       </item>
     
