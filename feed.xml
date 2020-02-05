@@ -6,9 +6,77 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Feb 2020 19:38:16 +0200</pubDate>
-    <lastBuildDate>Tue, 04 Feb 2020 19:38:16 +0200</lastBuildDate>
+    <pubDate>Wed, 05 Feb 2020 17:36:01 +0200</pubDate>
+    <lastBuildDate>Wed, 05 Feb 2020 17:36:01 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Дроны помогут увидеть лазерную проекцию в небе</title>
+        <description>Сотрудники компаний Phase 7 и CollMot придумали метод демонстрации больших динамических картин в воздухе с помощью дымогенераторных дронов и лазерного проектора.</description>
+        <pubDate>Wed, 05 Feb 2020 16:29:56 +0200</pubDate>
+        <link>http://technews2.pp.ua/done-aerial-projection/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/done-aerial-projection/</guid>
+        
+        <category>дрон</category>
+        
+        <category>дисплей</category>
+        
+        <category>лазер</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Перовскитные батареи слова улучшили</title>
+        <description>Немецкие ученые смогли ещё больше улучшить эффективность кремний-перовскитных солнечных панелей.</description>
+        <pubDate>Wed, 05 Feb 2020 16:26:26 +0200</pubDate>
+        <link>http://technews2.pp.ua/hzb-improved-solar-panels/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/hzb-improved-solar-panels/</guid>
+        
+        <category>батарея</category>
+        
+        <category>солнечные батареи</category>
+        
+        
+        <category>energy</category>
+        
+        <category>physics</category>
+        
+      </item>
+    
+      <item>
+        <title>Универсальную пряжу создали из фибробластов</title>
+        <description>Французские исследователи использовали фибробластный межклеточный матрикс для создания прочных биосовместимых нитей.</description>
+        <pubDate>Wed, 05 Feb 2020 16:21:49 +0200</pubDate>
+        <link>http://technews2.pp.ua/human-textiles-fibers/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/human-textiles-fibers/</guid>
+        
+        <category>ткань</category>
+        
+        <category>кожа</category>
+        
+        
+        <category>medical</category>
+        
+      </item>
+    
+      <item>
+        <title>В Томске испытали сверхяркий видимый лазер</title>
+        <description>Российские физики смогли добиться генерации лазерного излучения видимого диапазона с мощностью до 40 тераватт.</description>
+        <pubDate>Wed, 05 Feb 2020 16:18:48 +0200</pubDate>
+        <link>http://technews2.pp.ua/laser-tomsk/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/laser-tomsk/</guid>
+        
+        <category>лазер</category>
+        
+        <category>излучение</category>
+        
+        
+        <category>physics</category>
+        
+      </item>
     
       <item>
         <title>Вертолет SB&gt;1 проверили с убранным шасси</title>
@@ -107,72 +175,6 @@
         
         
         <category>medical</category>
-        
-      </item>
-    
-      <item>
-        <title>Экзоскелет внесли в Книгу рекордов</title>
-        <description>Компания Furrion добилась внесения в Книгу рекордов Гиннесса своего четырехногого экзоскелета.</description>
-        <pubDate>Tue, 04 Feb 2020 17:56:29 +0200</pubDate>
-        <link>http://technews2.pp.ua/furion-prosthesis/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/furion-prosthesis/</guid>
-        
-        <category>экзоскелет</category>
-        
-        <category>манипулятор</category>
-        
-        <category>рекорд</category>
-        
-        
-        <category>robotech</category>
-        
-      </item>
-    
-      <item>
-        <title>Сверхскоростная камера поможет увидеть ударные волны</title>
-        <description>Американские физики разработали сверхскоростную камеру, которая может снимать видео, содержащее до 1 триллиона кадров в секунду.</description>
-        <pubDate>Tue, 04 Feb 2020 17:50:51 +0200</pubDate>
-        <link>http://technews2.pp.ua/lle-cup-camera/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/lle-cup-camera/</guid>
-        
-        <category>камера</category>
-        
-        <category>оптика</category>
-        
-        
-        <category>physics</category>
-        
-      </item>
-    
-      <item>
-        <title>Доска Neptun X пролетит над водой на скорости</title>
-        <description>Компания eFoilFly показала свою электродоску для серфинга, работающую по принципу подводного крыла.</description>
-        <pubDate>Fri, 31 Jan 2020 11:48:05 +0200</pubDate>
-        <link>http://technews2.pp.ua/neptun-x-board/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/neptun-x-board/</guid>
-        
-        <category>вода</category>
-        
-        <category>корабль</category>
-        
-        
-        <category>energy</category>
-        
-      </item>
-    
-      <item>
-        <title>Астрономы сделали самые детализированные снимки Солнца</title>
-        <description>Наземный телескоп DKIST помог астрономам получить наиболее детализированные снимки солнечной поверхности.</description>
-        <pubDate>Fri, 31 Jan 2020 11:44:37 +0200</pubDate>
-        <link>http://technews2.pp.ua/suns-surface-shown/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/suns-surface-shown/</guid>
-        
-        <category>Солнце</category>
-        
-        <category>звезда</category>
-        
-        
-        <category>space</category>
         
       </item>
     
