@@ -6,9 +6,57 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Feb 2020 17:36:01 +0200</pubDate>
-    <lastBuildDate>Wed, 05 Feb 2020 17:36:01 +0200</lastBuildDate>
+    <pubDate>Thu, 06 Feb 2020 17:58:35 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Feb 2020 17:58:35 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Корректируемые снаряды попадут в подвижные объекты</title>
+        <description>Компания Raytheon испытала новую версию умного артиллерийского заряда Excalibur S. Снаряд сумел точно поразить движущуюся цель.</description>
+        <pubDate>Thu, 06 Feb 2020 16:54:46 +0200</pubDate>
+        <link>http://technews2.pp.ua/excalibur-ammo/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/excalibur-ammo/</guid>
+        
+        <category>оружие</category>
+        
+        <category>алгоритм</category>
+        
+        
+        <category>army</category>
+        
+      </item>
+    
+      <item>
+        <title>Данные графических файлов сохранили в молекулах</title>
+        <description>Ученые из Университета Брауна научились эффективно хранить информацию в молекулярных структурах.</description>
+        <pubDate>Thu, 06 Feb 2020 16:48:48 +0200</pubDate>
+        <link>http://technews2.pp.ua/molecular-data-storage-record/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/molecular-data-storage-record/</guid>
+        
+        <category>информация</category>
+        
+        <category>данные</category>
+        
+        
+        <category>electro</category>
+        
+      </item>
+    
+      <item>
+        <title>Энергию дождя преобразуют в электричество</title>
+        <description>Китайские ученые разработали новый способ преобразования кинетической энергии малой мощности в электричество.</description>
+        <pubDate>Thu, 06 Feb 2020 16:44:34 +0200</pubDate>
+        <link>http://technews2.pp.ua/cityu-droplets-energy/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/cityu-droplets-energy/</guid>
+        
+        <category>генератор</category>
+        
+        <category>вода</category>
+        
+        
+        <category>energy</category>
+        
+      </item>
     
       <item>
         <title>Дроны помогут увидеть лазерную проекцию в небе</title>
@@ -125,56 +173,6 @@
         
         
         <category>robotech</category>
-        
-      </item>
-    
-      <item>
-        <title>Анти-солнечные батареи дадут энергию в ночное время</title>
-        <description>Физики из Калифорнийского Университета придумали способ получения электричества за счет нагрева терморадиационных элементов.</description>
-        <pubDate>Tue, 04 Feb 2020 18:11:53 +0200</pubDate>
-        <link>http://technews2.pp.ua/anti-solar-panels-concept/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/anti-solar-panels-concept/</guid>
-        
-        <category>солнечные батареи</category>
-        
-        <category>электричество</category>
-        
-        
-        <category>physics</category>
-        
-        <category>energy</category>
-        
-      </item>
-    
-      <item>
-        <title>Умный шлем подскажет пути пожарным</title>
-        <description>Команда инженеров из США создала прототип тактильного шлема для спасателей и пожарных, передающий информацию виброакустическим способом.</description>
-        <pubDate>Tue, 04 Feb 2020 18:07:14 +0200</pubDate>
-        <link>http://technews2.pp.ua/nist-haptic/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/nist-haptic/</guid>
-        
-        <category>пожар</category>
-        
-        <category>дополненная реальность</category>
-        
-        
-        <category>electro</category>
-        
-      </item>
-    
-      <item>
-        <title>Найдены T-клетки, подходящие для борьбы с раком</title>
-        <description>Специалисты из Университета Кардиффа нашли новый тип клеток Т-киллеров, имеющих потенциал стать основой для универсальной противораковой терапии.</description>
-        <pubDate>Tue, 04 Feb 2020 18:00:17 +0200</pubDate>
-        <link>http://technews2.pp.ua/hla-vs-c/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/hla-vs-c/</guid>
-        
-        <category>рак</category>
-        
-        <category>иммунитет</category>
-        
-        
-        <category>medical</category>
         
       </item>
     
