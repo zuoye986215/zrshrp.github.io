@@ -6,9 +6,41 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Feb 2020 17:58:35 +0200</pubDate>
-    <lastBuildDate>Thu, 06 Feb 2020 17:58:35 +0200</lastBuildDate>
+    <pubDate>Fri, 07 Feb 2020 17:07:21 +0200</pubDate>
+    <lastBuildDate>Fri, 07 Feb 2020 17:07:21 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Бесконтактный станок работает на звуковых волнах</title>
+        <description>Физики из США и Бразилии разработали устройство переноса небольших объектов, используя для этого акустическую левитацию.</description>
+        <pubDate>Fri, 07 Feb 2020 15:55:23 +0200</pubDate>
+        <link>http://technews2.pp.ua/asier-ultrasonic-manipulator/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/asier-ultrasonic-manipulator/</guid>
+        
+        <category>звук</category>
+        
+        <category>левитация</category>
+        
+        
+        <category>physics</category>
+        
+      </item>
+    
+      <item>
+        <title>Уровень глюкозы узнают без прокола</title>
+        <description>Группа исследователей разработала метод определения уровня глюкозы в крови при помощи Рамановской спектроскопии.</description>
+        <pubDate>Fri, 07 Feb 2020 15:42:19 +0200</pubDate>
+        <link>http://technews2.pp.ua/sait-glucose-detection/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/sait-glucose-detection/</guid>
+        
+        <category>диабет</category>
+        
+        <category>диагностика</category>
+        
+        
+        <category>medical</category>
+        
+      </item>
     
       <item>
         <title>Корректируемые снаряды попадут в подвижные объекты</title>
@@ -139,40 +171,6 @@
         
         
         <category>army</category>
-        
-      </item>
-    
-      <item>
-        <title>Генная инженерия улучшила жизнь пчёл</title>
-        <description>Американские генетики постарались облегчить проблемы пчёл с клещами и вирусами при помощи генетической модификации бактерий.</description>
-        <pubDate>Tue, 04 Feb 2020 18:26:32 +0200</pubDate>
-        <link>http://technews2.pp.ua/save-bees-gmo/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/save-bees-gmo/</guid>
-        
-        <category>ГМО</category>
-        
-        <category>насекомые</category>
-        
-        <category>бактерия</category>
-        
-        
-        <category>medical</category>
-        
-      </item>
-    
-      <item>
-        <title>Робопалец научили потеть</title>
-        <description>Итальянские и американские инженеры собрали робопалец, который может охлаждать себя засчёт искусственного потоотделения.</description>
-        <pubDate>Tue, 04 Feb 2020 18:15:38 +0200</pubDate>
-        <link>http://technews2.pp.ua/perspiration-finger/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/perspiration-finger/</guid>
-        
-        <category>манипулятор</category>
-        
-        <category>охлаждение</category>
-        
-        
-        <category>robotech</category>
         
       </item>
     
