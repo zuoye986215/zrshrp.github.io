@@ -6,9 +6,27 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Feb 2020 17:07:21 +0200</pubDate>
-    <lastBuildDate>Fri, 07 Feb 2020 17:07:21 +0200</lastBuildDate>
+    <pubDate>Mon, 10 Feb 2020 18:00:13 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Feb 2020 18:00:13 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Станцию Solar Orbiter отправили к Солнцу</title>
+        <description>Европейские и американские ученые отправили зонд Solar Orbiter к Солнцу, для сбора данных о полярных областях звезды.</description>
+        <pubDate>Mon, 10 Feb 2020 16:55:27 +0200</pubDate>
+        <link>http://technews2.pp.ua/solar-orbiter-deployment/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/solar-orbiter-deployment/</guid>
+        
+        <category>зонд</category>
+        
+        <category>Солнце</category>
+        
+        <category>звезда</category>
+        
+        
+        <category>space</category>
+        
+      </item>
     
       <item>
         <title>Бесконтактный станок работает на звуковых волнах</title>
@@ -155,22 +173,6 @@
         
         
         <category>physics</category>
-        
-      </item>
-    
-      <item>
-        <title>Вертолет SB&gt;1 проверили с убранным шасси</title>
-        <description>Вертолет SB&gt;1 Defiant в ходе летных испытаний пролетел с убранным шасси, на скорости около 240 км/час.</description>
-        <pubDate>Tue, 04 Feb 2020 18:29:54 +0200</pubDate>
-        <link>http://technews2.pp.ua/sb1-defiant-130knots/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/sb1-defiant-130knots/</guid>
-        
-        <category>вертолет</category>
-        
-        <category>оружие</category>
-        
-        
-        <category>army</category>
         
       </item>
     
