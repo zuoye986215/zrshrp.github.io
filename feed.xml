@@ -6,9 +6,109 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Feb 2020 18:00:13 +0200</pubDate>
-    <lastBuildDate>Mon, 10 Feb 2020 18:00:13 +0200</lastBuildDate>
+    <pubDate>Wed, 12 Feb 2020 14:29:19 +0200</pubDate>
+    <lastBuildDate>Wed, 12 Feb 2020 14:29:19 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Робособаку Spot наняли для проверки нефтяных платформ</title>
+        <description>Робот Spot от Boston Dynamics будет патрулировать норвежские нефтяные платформы на месторождении Скарв.</description>
+        <pubDate>Wed, 12 Feb 2020 12:49:26 +0200</pubDate>
+        <link>http://technews2.pp.ua/spot-hired-for-platform-inspection/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/spot-hired-for-platform-inspection/</guid>
+        
+        <category>робот</category>
+        
+        <category>алгоритм</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Статистика помогла установить связь между онкозаболеваниями и вирусами</title>
+        <description>В рамках глобального проекта PCAWG ученые провели широкое исследование влияния вирусов на вероятность развития онкозаболеваний.</description>
+        <pubDate>Wed, 12 Feb 2020 12:36:39 +0200</pubDate>
+        <link>http://technews2.pp.ua/viruses-and-c/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/viruses-and-c/</guid>
+        
+        <category>рак</category>
+        
+        <category>вирус</category>
+        
+        
+        <category>medical</category>
+        
+      </item>
+    
+      <item>
+        <title>Найден защитный механизм от большинства вирусов</title>
+        <description>Микробиологи из США нашли перспективный механизм защиты от вирусов, при помощи белка AGO4.</description>
+        <pubDate>Wed, 12 Feb 2020 12:24:41 +0200</pubDate>
+        <link>http://technews2.pp.ua/ago4/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/ago4/</guid>
+        
+        <category>ДНК</category>
+        
+        <category>вирус</category>
+        
+        <category>геном</category>
+        
+        
+        <category>medical</category>
+        
+      </item>
+    
+      <item>
+        <title>Сверхминиатюрные транзисторы сделают из нанотрубок</title>
+        <description>Американские исследователи обнаружили материал, позволяющий производить транзисторы по технологии 2 нанометра.</description>
+        <pubDate>Wed, 12 Feb 2020 12:20:49 +0200</pubDate>
+        <link>http://technews2.pp.ua/tellur-nanutube-transistor/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/tellur-nanutube-transistor/</guid>
+        
+        <category>транзистор</category>
+        
+        <category>нанотрубки</category>
+        
+        
+        <category>nano</category>
+        
+        <category>electro</category>
+        
+      </item>
+    
+      <item>
+        <title>Актуаторные колёса меняют наклон и высоту по требованию</title>
+        <description>Австралийские инженеры проверили четырехколесную платформу, колёса которой могут на ходу менять передаточное соотношение и высоту оси.</description>
+        <pubDate>Wed, 12 Feb 2020 12:12:20 +0200</pubDate>
+        <link>http://technews2.pp.ua/posable-hub-wheels-icra19/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/posable-hub-wheels-icra19/</guid>
+        
+        <category>механика</category>
+        
+        <category>колеса</category>
+        
+        
+        <category>physics</category>
+        
+      </item>
+    
+      <item>
+        <title>Получен высокотемпературный магнитоэлектрик</title>
+        <description>Исследователи смогли получить магнитоэлектрический материал, обладающий электрическими и магнитными свойствами при комнатной температуре.</description>
+        <pubDate>Wed, 12 Feb 2020 12:05:42 +0200</pubDate>
+        <link>http://technews2.pp.ua/magnetoelectric-enantiomers/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/magnetoelectric-enantiomers/</guid>
+        
+        <category>магнит</category>
+        
+        <category>электричество</category>
+        
+        
+        <category>physics</category>
+        
+      </item>
     
       <item>
         <title>Станцию Solar Orbiter отправили к Солнцу</title>
@@ -73,106 +173,6 @@
         
         
         <category>army</category>
-        
-      </item>
-    
-      <item>
-        <title>Данные графических файлов сохранили в молекулах</title>
-        <description>Ученые из Университета Брауна научились эффективно хранить информацию в молекулярных структурах.</description>
-        <pubDate>Thu, 06 Feb 2020 16:48:48 +0200</pubDate>
-        <link>http://technews2.pp.ua/molecular-data-storage-record/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/molecular-data-storage-record/</guid>
-        
-        <category>информация</category>
-        
-        <category>данные</category>
-        
-        
-        <category>electro</category>
-        
-      </item>
-    
-      <item>
-        <title>Энергию дождя преобразуют в электричество</title>
-        <description>Китайские ученые разработали новый способ преобразования кинетической энергии малой мощности в электричество.</description>
-        <pubDate>Thu, 06 Feb 2020 16:44:34 +0200</pubDate>
-        <link>http://technews2.pp.ua/cityu-droplets-energy/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/cityu-droplets-energy/</guid>
-        
-        <category>генератор</category>
-        
-        <category>вода</category>
-        
-        
-        <category>energy</category>
-        
-      </item>
-    
-      <item>
-        <title>Дроны помогут увидеть лазерную проекцию в небе</title>
-        <description>Сотрудники компаний Phase 7 и CollMot придумали метод демонстрации больших динамических картин в воздухе с помощью дымогенераторных дронов и лазерного проектора.</description>
-        <pubDate>Wed, 05 Feb 2020 16:29:56 +0200</pubDate>
-        <link>http://technews2.pp.ua/done-aerial-projection/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/done-aerial-projection/</guid>
-        
-        <category>дрон</category>
-        
-        <category>дисплей</category>
-        
-        <category>лазер</category>
-        
-        
-        <category>robotech</category>
-        
-      </item>
-    
-      <item>
-        <title>Перовскитные батареи слова улучшили</title>
-        <description>Немецкие ученые смогли ещё больше улучшить эффективность кремний-перовскитных солнечных панелей.</description>
-        <pubDate>Wed, 05 Feb 2020 16:26:26 +0200</pubDate>
-        <link>http://technews2.pp.ua/hzb-improved-solar-panels/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/hzb-improved-solar-panels/</guid>
-        
-        <category>батарея</category>
-        
-        <category>солнечные батареи</category>
-        
-        
-        <category>energy</category>
-        
-        <category>physics</category>
-        
-      </item>
-    
-      <item>
-        <title>Универсальную пряжу создали из фибробластов</title>
-        <description>Французские исследователи использовали фибробластный межклеточный матрикс для создания прочных биосовместимых нитей.</description>
-        <pubDate>Wed, 05 Feb 2020 16:21:49 +0200</pubDate>
-        <link>http://technews2.pp.ua/human-textiles-fibers/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/human-textiles-fibers/</guid>
-        
-        <category>ткань</category>
-        
-        <category>кожа</category>
-        
-        
-        <category>medical</category>
-        
-      </item>
-    
-      <item>
-        <title>В Томске испытали сверхяркий видимый лазер</title>
-        <description>Российские физики смогли добиться генерации лазерного излучения видимого диапазона с мощностью до 40 тераватт.</description>
-        <pubDate>Wed, 05 Feb 2020 16:18:48 +0200</pubDate>
-        <link>http://technews2.pp.ua/laser-tomsk/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/laser-tomsk/</guid>
-        
-        <category>лазер</category>
-        
-        <category>излучение</category>
-        
-        
-        <category>physics</category>
         
       </item>
     
