@@ -6,9 +6,75 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Feb 2020 14:29:19 +0200</pubDate>
-    <lastBuildDate>Wed, 12 Feb 2020 14:29:19 +0200</lastBuildDate>
+    <pubDate>Fri, 14 Feb 2020 16:42:03 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Feb 2020 16:42:03 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Ученые показали снимки вируса Covid-19</title>
+        <description>Американские микробиологи получили образец коронавируса Covid-19 и получили его снимки при помощи просвечивающих сканирующих электронных микроскопов.</description>
+        <pubDate>Fri, 14 Feb 2020 15:29:17 +0200</pubDate>
+        <link>http://technews2.pp.ua/covid-19-images/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/covid-19-images/</guid>
+        
+        <category>вирус</category>
+        
+        <category>оптика</category>
+        
+        
+        <category>medical</category>
+        
+      </item>
+    
+      <item>
+        <title>Мюонный коллайдер поможет изучать физику частиц</title>
+        <description>Физики смогли получить достаточно стабильный луч мюонов, используя метод ионизационного охлаждения.</description>
+        <pubDate>Fri, 14 Feb 2020 15:24:36 +0200</pubDate>
+        <link>http://technews2.pp.ua/muon-collider-effects/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/muon-collider-effects/</guid>
+        
+        <category>частица</category>
+        
+        <category>волна</category>
+        
+        
+        <category>physics</category>
+        
+      </item>
+    
+      <item>
+        <title>Робота-хирурга научили сшивать сосуды</title>
+        <description>Нидерландские специалисты разработали робота-хирурга, который может сшивать сосуды с диаметром до 0.3 мм.</description>
+        <pubDate>Thu, 13 Feb 2020 16:58:08 +0200</pubDate>
+        <link>http://technews2.pp.ua/muse-surgeon/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/muse-surgeon/</guid>
+        
+        <category>робот</category>
+        
+        <category>хирург</category>
+        
+        
+        <category>medical</category>
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Фотоны запутали по оптоволокну</title>
+        <description>Китайские физики смогли запутать 2 квантовых узла по оптоволокну, длиной около 50 км.</description>
+        <pubDate>Thu, 13 Feb 2020 16:49:43 +0200</pubDate>
+        <link>http://technews2.pp.ua/quantum-memories-ustc/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/quantum-memories-ustc/</guid>
+        
+        <category>квантовая запутанность</category>
+        
+        <category>фотон</category>
+        
+        
+        <category>physics</category>
+        
+      </item>
     
       <item>
         <title>Робособаку Spot наняли для проверки нефтяных платформ</title>
@@ -107,72 +173,6 @@
         
         
         <category>physics</category>
-        
-      </item>
-    
-      <item>
-        <title>Станцию Solar Orbiter отправили к Солнцу</title>
-        <description>Европейские и американские ученые отправили зонд Solar Orbiter к Солнцу, для сбора данных о полярных областях звезды.</description>
-        <pubDate>Mon, 10 Feb 2020 16:55:27 +0200</pubDate>
-        <link>http://technews2.pp.ua/solar-orbiter-deployment/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/solar-orbiter-deployment/</guid>
-        
-        <category>зонд</category>
-        
-        <category>Солнце</category>
-        
-        <category>звезда</category>
-        
-        
-        <category>space</category>
-        
-      </item>
-    
-      <item>
-        <title>Бесконтактный станок работает на звуковых волнах</title>
-        <description>Физики из США и Бразилии разработали устройство переноса небольших объектов, используя для этого акустическую левитацию.</description>
-        <pubDate>Fri, 07 Feb 2020 15:55:23 +0200</pubDate>
-        <link>http://technews2.pp.ua/asier-ultrasonic-manipulator/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/asier-ultrasonic-manipulator/</guid>
-        
-        <category>звук</category>
-        
-        <category>левитация</category>
-        
-        
-        <category>physics</category>
-        
-      </item>
-    
-      <item>
-        <title>Уровень глюкозы узнают без прокола</title>
-        <description>Группа исследователей разработала метод определения уровня глюкозы в крови при помощи Рамановской спектроскопии.</description>
-        <pubDate>Fri, 07 Feb 2020 15:42:19 +0200</pubDate>
-        <link>http://technews2.pp.ua/sait-glucose-detection/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/sait-glucose-detection/</guid>
-        
-        <category>диабет</category>
-        
-        <category>диагностика</category>
-        
-        
-        <category>medical</category>
-        
-      </item>
-    
-      <item>
-        <title>Корректируемые снаряды попадут в подвижные объекты</title>
-        <description>Компания Raytheon испытала новую версию умного артиллерийского заряда Excalibur S. Снаряд сумел точно поразить движущуюся цель.</description>
-        <pubDate>Thu, 06 Feb 2020 16:54:46 +0200</pubDate>
-        <link>http://technews2.pp.ua/excalibur-ammo/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/excalibur-ammo/</guid>
-        
-        <category>оружие</category>
-        
-        <category>алгоритм</category>
-        
-        
-        <category>army</category>
         
       </item>
     
