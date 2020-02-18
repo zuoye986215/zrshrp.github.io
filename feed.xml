@@ -6,9 +6,135 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Feb 2020 16:42:03 +0200</pubDate>
-    <lastBuildDate>Fri, 14 Feb 2020 16:42:03 +0200</lastBuildDate>
+    <pubDate>Tue, 18 Feb 2020 12:19:50 +0200</pubDate>
+    <lastBuildDate>Tue, 18 Feb 2020 12:19:50 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Британцы испытали псевдоспутник</title>
+        <description>Британские инженеры успешно испытали долгосрочный высотный беспилотник, работающий на солнечных батареях.</description>
+        <pubDate>Tue, 18 Feb 2020 11:14:57 +0200</pubDate>
+        <link>http://technews2.pp.ua/phasa-35/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/phasa-35/</guid>
+        
+        <category>беспилотник</category>
+        
+        <category>дрон</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Робот-гусеница преодолеет сложные препятствия</title>
+        <description>Израильские инженеры разработали гусеничного робота высокой проходимости, с изменяемым углом звеньев.</description>
+        <pubDate>Tue, 18 Feb 2020 11:00:04 +0200</pubDate>
+        <link>http://technews2.pp.ua/track-robot-rctr/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/track-robot-rctr/</guid>
+        
+        <category>робот</category>
+        
+        <category>гусеница</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Ультразвуковой браслет заглушит прослушку</title>
+        <description>Американские инженеры собрали ультразвуковой браслет, мешающий микрофонам корректно распознавать речь.</description>
+        <pubDate>Tue, 18 Feb 2020 10:55:35 +0200</pubDate>
+        <link>http://technews2.pp.ua/ultrasound-jamming/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/ultrasound-jamming/</guid>
+        
+        <category>звук</category>
+        
+        <category>ультразвук</category>
+        
+        <category>помехи</category>
+        
+        <category>волна</category>
+        
+        
+        <category>electro</category>
+        
+      </item>
+    
+      <item>
+        <title>Швейцарцы освоили лазерную печать объектов</title>
+        <description>Швейцарские специалисты придумали технологию для сверхскоростной 3D-печати объектов.</description>
+        <pubDate>Tue, 18 Feb 2020 10:51:19 +0200</pubDate>
+        <link>http://technews2.pp.ua/swiss-fast-3d-print/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/swiss-fast-3d-print/</guid>
+        
+        <category>печать</category>
+        
+        <category>лазер</category>
+        
+        <category>полимер</category>
+        
+        
+        <category>energy</category>
+        
+      </item>
+    
+      <item>
+        <title>ВМС США одобрили EMALS и AAG</title>
+        <description>Американские ВМС закончили испытания аэрофинишера AAG и электромагнитной катапульты EMALS. Теперь устройства одобрены и могут обслуживать все палубные самолеты.</description>
+        <pubDate>Tue, 18 Feb 2020 10:42:00 +0200</pubDate>
+        <link>http://technews2.pp.ua/emals-approved/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/emals-approved/</guid>
+        
+        <category>самолет</category>
+        
+        <category>магнит</category>
+        
+        <category>корабль</category>
+        
+        
+        <category>army</category>
+        
+      </item>
+    
+      <item>
+        <title>Саранча найдет взрывчатку по запаху</title>
+        <description>Команда американских исследователей превратила обычную саранчу в саперов-киборгов, способных обнаруживать взрывчатку.</description>
+        <pubDate>Tue, 18 Feb 2020 10:38:07 +0200</pubDate>
+        <link>http://technews2.pp.ua/bug-explosives-detection/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/bug-explosives-detection/</guid>
+        
+        <category>насекомые</category>
+        
+        <category>датчик</category>
+        
+        
+        <category>medical</category>
+        
+        <category>electro</category>
+        
+      </item>
+    
+      <item>
+        <title>В США разрешили использование портативного аппарата МРТ</title>
+        <description>Управление по сан.надзору США разрешило начать продажи портативного устройства, для проведения магнитно-резонансной томографии.</description>
+        <pubDate>Tue, 18 Feb 2020 10:34:05 +0200</pubDate>
+        <link>http://technews2.pp.ua/portable-mri/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/portable-mri/</guid>
+        
+        <category>МРТ</category>
+        
+        <category>магнит</category>
+        
+        <category>диагностика</category>
+        
+        
+        <category>medical</category>
+        
+        <category>electro</category>
+        
+      </item>
     
       <item>
         <title>Ученые показали снимки вируса Covid-19</title>
@@ -57,122 +183,6 @@
         <category>medical</category>
         
         <category>robotech</category>
-        
-      </item>
-    
-      <item>
-        <title>Фотоны запутали по оптоволокну</title>
-        <description>Китайские физики смогли запутать 2 квантовых узла по оптоволокну, длиной около 50 км.</description>
-        <pubDate>Thu, 13 Feb 2020 16:49:43 +0200</pubDate>
-        <link>http://technews2.pp.ua/quantum-memories-ustc/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/quantum-memories-ustc/</guid>
-        
-        <category>квантовая запутанность</category>
-        
-        <category>фотон</category>
-        
-        
-        <category>physics</category>
-        
-      </item>
-    
-      <item>
-        <title>Робособаку Spot наняли для проверки нефтяных платформ</title>
-        <description>Робот Spot от Boston Dynamics будет патрулировать норвежские нефтяные платформы на месторождении Скарв.</description>
-        <pubDate>Wed, 12 Feb 2020 12:49:26 +0200</pubDate>
-        <link>http://technews2.pp.ua/spot-hired-for-platform-inspection/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/spot-hired-for-platform-inspection/</guid>
-        
-        <category>робот</category>
-        
-        <category>алгоритм</category>
-        
-        
-        <category>robotech</category>
-        
-      </item>
-    
-      <item>
-        <title>Статистика помогла установить связь между онкозаболеваниями и вирусами</title>
-        <description>В рамках глобального проекта PCAWG ученые провели широкое исследование влияния вирусов на вероятность развития онкозаболеваний.</description>
-        <pubDate>Wed, 12 Feb 2020 12:36:39 +0200</pubDate>
-        <link>http://technews2.pp.ua/viruses-and-c/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/viruses-and-c/</guid>
-        
-        <category>рак</category>
-        
-        <category>вирус</category>
-        
-        
-        <category>medical</category>
-        
-      </item>
-    
-      <item>
-        <title>Найден защитный механизм от большинства вирусов</title>
-        <description>Микробиологи из США нашли перспективный механизм защиты от вирусов, при помощи белка AGO4.</description>
-        <pubDate>Wed, 12 Feb 2020 12:24:41 +0200</pubDate>
-        <link>http://technews2.pp.ua/ago4/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/ago4/</guid>
-        
-        <category>ДНК</category>
-        
-        <category>вирус</category>
-        
-        <category>геном</category>
-        
-        
-        <category>medical</category>
-        
-      </item>
-    
-      <item>
-        <title>Сверхминиатюрные транзисторы сделают из нанотрубок</title>
-        <description>Американские исследователи обнаружили материал, позволяющий производить транзисторы по технологии 2 нанометра.</description>
-        <pubDate>Wed, 12 Feb 2020 12:20:49 +0200</pubDate>
-        <link>http://technews2.pp.ua/tellur-nanutube-transistor/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/tellur-nanutube-transistor/</guid>
-        
-        <category>транзистор</category>
-        
-        <category>нанотрубки</category>
-        
-        
-        <category>nano</category>
-        
-        <category>electro</category>
-        
-      </item>
-    
-      <item>
-        <title>Актуаторные колёса меняют наклон и высоту по требованию</title>
-        <description>Австралийские инженеры проверили четырехколесную платформу, колёса которой могут на ходу менять передаточное соотношение и высоту оси.</description>
-        <pubDate>Wed, 12 Feb 2020 12:12:20 +0200</pubDate>
-        <link>http://technews2.pp.ua/posable-hub-wheels-icra19/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/posable-hub-wheels-icra19/</guid>
-        
-        <category>механика</category>
-        
-        <category>колеса</category>
-        
-        
-        <category>physics</category>
-        
-      </item>
-    
-      <item>
-        <title>Получен высокотемпературный магнитоэлектрик</title>
-        <description>Исследователи смогли получить магнитоэлектрический материал, обладающий электрическими и магнитными свойствами при комнатной температуре.</description>
-        <pubDate>Wed, 12 Feb 2020 12:05:42 +0200</pubDate>
-        <link>http://technews2.pp.ua/magnetoelectric-enantiomers/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/magnetoelectric-enantiomers/</guid>
-        
-        <category>магнит</category>
-        
-        <category>электричество</category>
-        
-        
-        <category>physics</category>
         
       </item>
     
